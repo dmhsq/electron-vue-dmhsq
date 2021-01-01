@@ -46,6 +46,8 @@ npm run serve
 
 ### 打包electron应用
 ```
+npm run builds
+执行完成后（如果页面已经打包过无需此步）
 在electron文件夹中
 npm run build
 ```
