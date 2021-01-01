@@ -1,7 +1,7 @@
 const { app, BrowserWindow } = require("electron");
 const fs = require("fs");
 function reloadTheWin(win) {
-  fs.watch("./src/js", event => {
+  fs.watch("./dist", event => {
     if (event == "change") {
         console.log('updating')
       win.reload();
