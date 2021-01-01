@@ -1,5 +1,7 @@
 # electron-vue-dmhsq
 
+[github地址](https://github.com/dmhsq/electron-vue-dmhsq)
+
 ## 安装依赖
 ```
 npm install
