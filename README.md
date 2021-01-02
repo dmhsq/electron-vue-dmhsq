@@ -48,7 +48,7 @@ npm run serve
 
 ### 打包electron应用
 ```
-#最终打包需要删除electron/main.js中的fs模块
+最终打包需要删除electron/main.js中的fs模块
 npm run builds
 执行完成后（如果页面已经打包过无需此步）
 在electron文件夹中
