@@ -1,8 +1,18 @@
 # electron-vue-dmhsq
 
+# 目录说明
+```
+electron文件夹控制桌面端的运行打包
+ 其余均为 vue目录
+ electron/main.js  桌面应用主程序
+ electron/main.js  桌面应用渲染程序
+ ```
+
 博客地址
+```
 
 [https://blog.csdn.net/qq_42027681/article/details/112077082](https://blog.csdn.net/qq_42027681/article/details/112077082)
+```
 
 #最终打包需要删除electron/main.js中的fs模块
 如果您只是想打包vue项目成exe 
