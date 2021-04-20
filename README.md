@@ -21,7 +21,7 @@
 electron文件夹控制桌面端的运行打包
  其余均为 vue目录
  electron/main.js  桌面应用主程序
- electron/main.js  桌面应用渲染程序
+ electron/rebder.js  桌面应用渲染程序
  ```
  
 
